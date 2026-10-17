@@ -1,0 +1,47 @@
+O MONOPÓLIO — SITE INICIAL
+
+COMO ABRIR
+1. Extrai o ficheiro ZIP.
+2. Abre a pasta "monopolio_site" no Visual Studio Code.
+3. Abre o ficheiro index.html no navegador (Chrome, Edge ou Firefox).
+   Opcional: instala a extensão Live Server no VS Code e escolhe "Open with Live Server".
+
+FICHEIROS
+- index.html: estrutura e conteúdo do site
+- style.css: cores, layout e adaptação a telemóvel/computador
+- script.js: menu mobile e ano automático no rodapé
+- assets/logo-monopolio.jpg: logótipo enviado
+
+PERSONALIZAÇÃO
+- Edita os nomes em index.html se houver alguma grafia a corrigir.
+- A secção Galeria é demonstrativa; podes substituir os blocos por fotografias.
+- Os cartões dos membros usam iniciais por enquanto. Para usar fotografias, adiciona imagens à pasta assets e troca o conteúdo da div "avatar" por uma tag img.
+- O site é estático: não tem base de dados nem formulário de contacto funcional nesta primeira versão.
+
+
+ACTUALIZAÇÃO DE FOTOGRAFIAS
+- As sete fotografias enviadas foram adicionadas à galeria em assets/.
+- Os perfis dos membros continuam com iniciais até confirmares qual retrato corresponde a cada nome.
+
+CONTACTOS DOS MEMBROS
+- Os cartões dos cinco membros agora incluem links para Instagram e WhatsApp.
+- Os links de WhatsApp abrem conversa para os números com indicativo +244.
+- Como o site é público, confirme que todos concordam em publicar estes contactos.
+
+
+NOVAS FOTOGRAFIAS E VÍDEOS
+- As novas fotografias estão em assets/nova-foto-01.jpg até nova-foto-08.jpg.
+- Os vídeos estão em assets/video-01.mp4 e assets/video-02.mp4.
+- Para adicionar música, coloca um ficheiro MP3 que tenhas autorização para usar dentro de assets e chama-o cbg-fundo.mp3. O leitor de música já está preparado.
+- A música só começa quando o visitante carregar em “Tocar”, porque os navegadores normalmente bloqueiam reprodução automática.
+- Depois de atualizar os ficheiros no GitHub, espera alguns minutos para o GitHub Pages atualizar o site.
+- Como o site é público, confirma que os membros autorizam a publicação das fotografias, vídeos e contactos.
+
+
+MÚSICA DO YOUTUBE
+- O botão “Ouvir” abre o leitor incorporado da música enviada: https://youtu.be/tvPDlz_oOws
+- O visitante tem de carregar no botão para iniciar a reprodução. O YouTube controla a reprodução e pode mostrar anúncios conforme as regras da plataforma.
+- Não é necessário descarregar nem carregar o MP3; o site reproduz o vídeo através do leitor oficial do YouTube.
+
+MÚSICA DE FUNDO
+O ficheiro de música está em assets/cbg-fundo.mp3. No site, o visitante deve carregar em “Ouvir” para iniciar a reprodução; os navegadores normalmente bloqueiam reprodução automática.
